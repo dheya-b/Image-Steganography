@@ -79,17 +79,4 @@ jupyter notebook image_steganography_code.ipynb
 - HMAC-SHA256 provides strong integrity checks.
 - Bit-plane selection can be randomized for added security.
 
-## 🧪 Future Improvements
 
-- Deep Learning-based steganographic embedding.
-- Adaptive embedding based on image complexity.
-- Use of GANs to generate more secure stego images.
-
-## 🧑‍💻 Author
-
-**Dheya Badrinath**  
-Feel free to connect via [LinkedIn](#) or email.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
